@@ -79,4 +79,5 @@ The above command runs all three D<sub>2</sub>, D<sub>2</sub><sup>S</sup>, and D
 
 ## Citation
 If you use jD2Stat or D<sub>2</sub><sup>n</sup> in your work, please cite:
+
 Chan CX, Bernard G, Poirion O, Hogan JM and Ragan MA (2014). Inferring phylogenies without multiple sequence alignment. *Scientific Reports* **4:** 6504. http://dx.doi.org/10.1038/srep06504.
