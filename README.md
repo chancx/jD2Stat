@@ -1,4 +1,6 @@
 # jD2Stat
+Written by: Guillaume Bernard
+
 jD2Stat (previously known as JIWA*) is a Java package that utilises a series of D~2~ statistics to
 extract k-mers (subsequences at defined k length) from a set of biological sequences, and generate
 pairwise distances for each possible pair. This distance can be used directly for phylogenetic inference
